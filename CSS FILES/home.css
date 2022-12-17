@@ -1,0 +1,70 @@
+/* HERO SECTION STYLING */
+.para1 {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.studentimage {
+    width:100%;
+    height: 100%;
+}
+
+.logos {
+    width:100%;
+    height: 100%;
+    margin-right: 10px;
+}
+
+.logotext {
+    text-align: justify;
+}
+
+#img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+}
+
+.button {
+    margin-top: -250px;
+    margin-bottom: 250px;
+}
+
+#second_img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+}
+
+/* TESTIMONIAL SECTION */
+/* .text1 {
+    margin-top: -300px;
+} */
+/* .enrol_now {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .education {
+    position: absolute;
+    top: 40%;
+    /* left: 25%; 
+    /* transform: translate(-40%, -40%); 
+  } */
+
+.apostrophe {
+    justify-items: center;
+}
+
+.reviews {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+.name {
+    margin-top: -10px;
+}
